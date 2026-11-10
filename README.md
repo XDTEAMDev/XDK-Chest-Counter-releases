@@ -32,12 +32,15 @@ compteur n'a rien à lire. Fortnite n'écrit la clé du replay qu'à la fin de l
   Ctrl+Maj+O pour l'afficher / le masquer, Ctrl+Maj+L pour le verrouiller. Mets Fortnite en « Plein écran fenêtré ».
 - **Rapport néon** dans ton navigateur, dans le style du XDK Hub (coffres par jour, types, trésors, combat, chaque partie), export CSV, et
   `overlay.html` pour une source navigateur OBS.
+- **Réglages dans le rapport** : bouton *Réglages* en haut de la page pour changer l'overlay (style, taille, opacité,
+  stats en plus, position) et les options en un clic, sans passer par la console.
 
 ## Sans risque
 
 - Il lit **seulement** les fichiers `.replay` de Fortnite (`%LOCALAPPDATA%\FortniteGame\Saved\Demos`), en lecture seule.
 - Aucune modification du jeu, **aucun accès à la mémoire** de Fortnite, aucune connexion à ton compte Epic.
-- Aucune donnée envoyée, aucun accès réseau : les mises à jour arrivent par le XDK Hub ou par cette page.
+- Aucune donnée envoyée, aucun accès à Internet : la page des réglages reste sur ton PC (`127.0.0.1`), et les mises à
+  jour arrivent par le XDK Hub ou par cette page.
 
 ## Tu avais déjà le Chest Counter de LED-N ?
 
