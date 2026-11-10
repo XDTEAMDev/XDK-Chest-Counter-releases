@@ -30,7 +30,7 @@ compteur n'a rien à lire. Fortnite n'écrit la clé du replay qu'à la fin de l
 - **Déplacements** : distance parcourue, matériaux récoltés et utilisés, dégâts aux structures.
 - **Overlay** en jeu (style HUD ou classique) : total, dernière partie, session, trésors, types de coffres et combat.
   Ctrl+Maj+O pour l'afficher / le masquer, Ctrl+Maj+L pour le verrouiller. Mets Fortnite en « Plein écran fenêtré ».
-- **Rapport** dans ton navigateur (coffres par jour, types, trésors, combat, chaque partie), export CSV, et
+- **Rapport néon** dans ton navigateur, dans le style du XDK Hub (coffres par jour, types, trésors, combat, chaque partie), export CSV, et
   `overlay.html` pour une source navigateur OBS.
 
 ## Sans risque
@@ -51,8 +51,10 @@ Discord **XDK TEAM DEV** : https://discord.gg/zEC35KSuxt
 
 ## Crédits et licence
 
+**Coded by XDK Vito** (XDK TEAM DEV). Discord XDK TEAM GAMES : https://discord.gg/8cUgTAHySB
+
 Version modifiée du [Fortnite Chest Counter](https://github.com/LED-N/Fortnite-ChestCounter) de **LED-N** (licence MIT).
-Lecteur de replays : FortniteReplayDecompressor de Shiqan (MIT). Police des titres : Pirata One (SIL OFL).
+Lecteur de replays : FortniteReplayDecompressor de Shiqan (MIT). Police du rapport : Rajdhani (SIL OFL).
 Toutes les licences : [LICENCES.txt](LICENCES.txt).
 
 ## Ce dépôt
