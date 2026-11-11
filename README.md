@@ -27,6 +27,8 @@ compteur n'a rien à lire. Fortnite n'écrit la clé du replay qu'à la fin de l
   munitions, caisses de nourriture, canons à butin.
 - **Coffres de l'équipe** : en duo, trio ou section, les coffres de tes coéquipiers s'ajoutent aux tiens (total de
   l'équipe par partie et depuis le début, ta part, le coéquipier qui en ouvre le plus).
+- **Plusieurs comptes** : chaque compte Fortnite garde ses stats, et le compteur passe tout seul sur celui avec lequel
+  tu joues.
 - **Trésors** de la chasse au trésor (coffre doré, gizmos), et ceux de ton équipe (estimation).
 - **Combat** : éliminations, assistances, dégâts infligés et subis, précision, réanimations, Top 1.
 - **Déplacements** : distance parcourue, matériaux récoltés et utilisés, dégâts aux structures.
