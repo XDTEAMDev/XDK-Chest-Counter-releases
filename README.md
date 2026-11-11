@@ -25,10 +25,12 @@ compteur n'a rien à lire. Fortnite n'écrit la clé du replay qu'à la fin de l
 
 - **Coffres** ouverts ou cassés par toi : normaux, rares, enterrés, d'esprit, des affiches ; à part : caisses de
   munitions, caisses de nourriture, canons à butin.
+- **Coffres de l'équipe** : en duo, trio ou section, les coffres de tes coéquipiers s'ajoutent aux tiens (total de
+  l'équipe par partie et depuis le début, ta part, le coéquipier qui en ouvre le plus).
 - **Trésors** de la chasse au trésor (coffre doré, gizmos), et ceux de ton équipe (estimation).
 - **Combat** : éliminations, assistances, dégâts infligés et subis, précision, réanimations, Top 1.
 - **Déplacements** : distance parcourue, matériaux récoltés et utilisés, dégâts aux structures.
-- **Overlay** en jeu (style HUD ou classique) : total, dernière partie, session, trésors, types de coffres et combat.
+- **Overlay** en jeu (style HUD ou classique) : total, dernière partie, équipe, session, trésors, types de coffres et combat.
   Ctrl+Maj+O pour l'afficher / le masquer, Ctrl+Maj+L pour le verrouiller. Mets Fortnite en « Plein écran fenêtré ».
 - **Rapport néon** dans ton navigateur, dans le style du XDK Hub (coffres par jour, types, trésors, combat, chaque partie), export CSV, et
   `overlay.html` pour une source navigateur OBS.
