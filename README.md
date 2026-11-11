@@ -35,7 +35,7 @@ compteur n'a rien à lire. Fortnite n'écrit la clé du replay qu'à la fin de l
 - **Rapport néon** dans ton navigateur, dans le style du XDK Hub (coffres par jour, types, trésors, combat, chaque partie), export CSV, et
   `overlay.html` pour une source navigateur OBS.
 - **Réglages dans le rapport** : bouton *Réglages* en haut de la page pour changer l'overlay (style, taille, opacité,
-  stats en plus, position) et les options en un clic, sans passer par la console.
+  stats en plus, position) et les options en un clic, sans passer par la console. Sélecteur *FR | US* pour la langue.
 
 ## Sans risque
 
